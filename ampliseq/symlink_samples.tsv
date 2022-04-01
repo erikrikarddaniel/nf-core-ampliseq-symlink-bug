@@ -1,0 +1,5 @@
+sampleID	forwardReads	reverseReads
+1a_S103_L001	symlinks/1a_S103_L001_R1_001.fastq.gz	symlinks/1a_S103_L001_R2_001.fastq.gz
+1_S103_L001	symlinks/1_S103_L001_R1_001.fastq.gz	symlinks/1_S103_L001_R2_001.fastq.gz
+2a_S115_L001	symlinks/2a_S115_L001_R1_001.fastq.gz	symlinks/2a_S115_L001_R2_001.fastq.gz
+2_S115_L001	symlinks/2_S115_L001_R1_001.fastq.gz	symlinks/2_S115_L001_R2_001.fastq.gz

@@ -1,0 +1,4 @@
+input:          symlink_samples.tsv
+FW_primer:      GTGYCAGCMGCCGCGGTAA
+RV_primer:      GGACTACNVGGGTWTCTAAT
+skip_qiime:     true
